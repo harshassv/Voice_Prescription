@@ -1,2 +1,2 @@
 # Voice_Prescription
-![](Images/Main.png)
+![](Images/Main.PNG)
