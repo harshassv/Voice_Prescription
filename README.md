@@ -1,4 +1,4 @@
 # Voice_Prescription
-![](Images/About.PNG)
-![](Images/description.PNG)
+![](Images/About.jpg)
+![](Images/description.jpg)
 ![](Images/Main.PNG)
